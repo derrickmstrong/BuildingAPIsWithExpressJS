@@ -1,0 +1,7 @@
+body {
+    font-family: monospace;
+}
+.manage-chirp {
+    display: flex;
+    justify-content: end;
+}
